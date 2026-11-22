@@ -1,0 +1,7 @@
+{
+  "appId": "com.ticaret.yasam",
+  "appName": "Ticaret ve Yaşam",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#FFF8E8" }
+}
